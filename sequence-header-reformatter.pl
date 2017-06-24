@@ -1,6 +1,7 @@
+#!usr/bin/perl
 use strict;
 use warnings;
-# LINE 16 CONTAINS NEW HEADER NAME WITH FOLLOWED BY "_" TO SPACE COUNTER
+# LINE 17 CONTAINS NEW HEADER NAME WITH FOLLOWED BY "_" TO SPACE COUNTER
 # Usage: perl headformat.pl <assembly> > <newnamefile> 
 # >1_2_8_Confidence_1.000_Length_1023._corvallis
 # EXAMPLE OUTPUT
